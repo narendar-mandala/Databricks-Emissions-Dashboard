@@ -6,7 +6,7 @@ An interactive county-level emissions dashboard built in **Databricks**, visuali
 
 ## 📊 Dashboard Preview
 
-![US Emissions Dashboard](assets/dashboard_preview.png)
+![Emissions Dashboard](Images/EmissionsDashboard.png)
 
 > **Live Dashboard (Databricks):**
 > [View on Databricks](https://dbc-67b2619d-a17e.cloud.databricks.com/sql/dashboardsv3/01f150107ac5140aa4c2a770b77c5e26/pages/89e4d604?o=335152379134188)
